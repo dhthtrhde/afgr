@@ -1,5 +1,5 @@
 ## v2ray-heroku
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dhthtrhde/ShadowsocksR)https://heroku.com/deploy?template=
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/dhthtrhde/afgr)https://heroku.com/deploy?template=
 
 ## 注意事项
 ### heroku上部署v2ray
